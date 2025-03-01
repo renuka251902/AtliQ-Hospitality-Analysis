@@ -4,9 +4,9 @@
 AtliQ Grands, a premium hotel chain in India, faced declining market share and revenue due to competitive pressure and ineffective decision-making. To regain its position, the management sought data-driven insights but lacked an in-house analytics team. As a result, they engaged third-party data analysts to analyze their historical revenue data and uncover key business trends.
 
 - [Project overview](#Project-overview)
-- [Key Findings & Insights](#Key-Findings-&Insights)
-- [Project overview](#Project-overview)
-- [Project overview](#Project-overview)
+- [Key Insights](#Key-Insights)
+- [New Learnings](#New-Learnings)
+- [Outcome](#Outcome)
 - [Check out my Live Dashboard below](#Check-out-my-Live-Dashboard-below)
  
 
@@ -17,7 +17,7 @@ AtliQ Grands, a premium hotel chain in India, faced declining market share and r
 
 🔹 Skills Applied: Data visualization, business intelligence, revenue analysis, dashboard design.
 
-### Key Findings & Insights
+### Key Insights
 ✅ Revenue Leaders: Mumbai generated the highest revenue (₹669M), followed by Bangalore, Hyderabad, and Delhi.
 
 ✅ Best-Performing Property: AtliQ Exotica led with ₹320M revenue, an occupancy rate of 57%, and a cancellation rate of 24.4%.
@@ -30,7 +30,7 @@ AtliQ Grands, a premium hotel chain in India, faced declining market share and r
 
 ✅ Top Market by Occupancy & Ratings: Delhi had the best occupancy and customer ratings, followed by Hyderabad, Mumbai, and Bangalore.
 
-### New Learnings & Techniques
+### New Learnings 
 📌 Custom Visuals: Built a Calendar Visual using a matrix table for advanced analysis.
 
 📌 Hotel Cancellation Policies: Studied industry-wide policies—most hotels charge 60-90% for cancellations within 3 months of booking.
@@ -39,7 +39,7 @@ AtliQ Grands, a premium hotel chain in India, faced declining market share and r
 
 📌 Design Optimization: Applied a consistent color palette across the dashboard for a cohesive visual experience.
 
-### Outcome & Impact
+### Outcome 
 This project demonstrated my ability to transform complex business data into meaningful insights for strategic decision-making. By leveraging Power BI and SQL, I developed an interactive dashboard that helps AtliQ Grands optimize revenue streams, reduce cancellations, and improve market positioning.
 
 ### Check out my Live Dashboard below
