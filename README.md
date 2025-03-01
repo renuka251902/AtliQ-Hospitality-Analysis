@@ -36,6 +36,6 @@ AtliQ Grands, a premium hotel chain in India, faced declining market share and r
 This project demonstrated my ability to transform complex business data into meaningful insights for strategic decision-making. By leveraging Power BI and SQL, I developed an interactive dashboard that helps AtliQ Grands optimize revenue streams, reduce cancellations, and improve market positioning.
 
 ### Check out my Live Dashboard below:
-https://app.powerbi.com/view?r=eyJrIjoiNTQ3NDRhYjMtNmVkMy00ZWI5LWEwMDgtNzkyMDg1YmU4NGFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+ https://lnkd.in/gVgY2XB4
 
 
