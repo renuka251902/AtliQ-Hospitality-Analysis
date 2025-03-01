@@ -5,8 +5,8 @@ AtliQ Grands, a premium hotel chain in India, faced declining market share and r
 
 - [Project overview](#Project-overview)
 - [Key Findings & Insights](#Key-Findings-&-Insights)
-- [New Learnings & Techniques](#New-Learnings-&-Techniques)
-- [Outcome & Impact](#Outcome-&-Impact)
+- [Project overview](#Project-overview)
+- [Project overview](#Project-overview)
 - [Check out my Live Dashboard below](#Check-out-my-Live-Dashboard-below)
  
 
